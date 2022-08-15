@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/c/la_tanks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="la_tanks" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/fDuTjtc9Wj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fDuTjtc9Wj" height="30" width="40" /></a>
 </p>
-<a href="https://www.tiktok.com/@latanks?lang=pt-BR" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="latanks-tiktok" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@lt.tanks?lang=pt-BR" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="latanks-tiktok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
