@@ -52,17 +52,17 @@
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## Recent Blog Posts
+## Github status
 
 <br/>
 
-<div align="center"></div>
+
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=latanks&show_icons=true&locale=en&layout=compact" alt="latanks" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=latanks&show_icons=true&locale=en&layout=compact" alt="latanks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=latanks&show_icons=true&locale=en" alt="latanks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latanks&" alt="latanks" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LAtanks&theme=github"/>
