@@ -5,16 +5,10 @@
 </div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latanks&label=Profile%20views&color=0e75b6&style=flat" alt="latanks" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sknat_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sknat_al" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/giovanni-samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-samuel" height="30" width="40" /></a>
-<a href="https://instagram.com/la_tanks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la_tanks" height="30" width="40" /></a>
-</p>
-
 ### <div align="center">Hi there! My name 's Giovanni Samuel(known as LAtanks), i'm Game Programming and Web Developer. Now i'm learning Back-end development, Digital Art and more about Web Development.</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-### At the moment:
+
+## At the moment:
 
 - 🔭 I’m learning Back-end Development with Java
 
@@ -29,7 +23,8 @@
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## Connect with me
+
+### Connect with me
 
 <div align="center">
 <a href="https://github.com/LAtanks" target="_blank">
@@ -48,11 +43,7 @@
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## Github status
+### Github status
 
 <br/>
 
