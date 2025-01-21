@@ -10,11 +10,9 @@
 
 ## At the moment:
 
-- 🔭 I’m learning Back-end Development with Java
+- 🔭 I’m learning Back-end Development with Java, Spring boot, Docker, MYSql, postgresql
 
 - 🌱 I’m learning more about Web Development
-
-- ❓ Learning Digital art
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,7 +31,7 @@
 <a href="https://twitter.com/atanks_l" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/giovanni-samuel" target="_blank">
+<a href="www.linkedin.com/in/giovanni-samuelas" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/la_tanks" target="_blank">
