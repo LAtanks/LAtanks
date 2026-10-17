@@ -1,24 +1,45 @@
-# 💫 Sobre mim:
-Sou estudante de Engenharia de Software na faculdade Anhanguera e estou em constante busca de novos desafios no mundo da tecnologia. Atualmente, estou me especializando em desenvolvimento full stack, explorando tanto o back-end quanto o front-end para criar soluções completas e inovadoras. Apaixonado por aprender e aplicar novas tecnologias, estou focado em crescer como desenvolvedor e contribuir para a criação de sistemas robustos e eficientes.
+<h2 data-importer="text" align="center">Olá, meu nome é Giovanni Samuel</h2>
 
+###
 
-## 🌐 Rede sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/latanks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni-samuelas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giovannisamuel343@gmail.com) 
+<h6 data-importer="text" align="center">Sou estudante de Engenharia de Software na faculdade Anhanguera e estou em constante busca de novos desafios no mundo da tecnologia. Atualmente, estou me especializando em desenvolvimento full stack, explorando tanto o back-end quanto o front-end para criar soluções completas e inovadoras. Apaixonado por aprender e aplicar novas tecnologias, estou focado em crescer como desenvolvedor e contribuir para a criação de sistemas robustos e eficientes.</h6>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LAtanks&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LAtanks&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LAtanks&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LAtanks&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div data-importer="socials" align="center">
+  <a href="giovannisamuel343@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="in/giovanni-samuelas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LAtanks&limit=5&theme=default&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=LAtanks&icon=1&color=3)](https://visitcount.itsvg.in)
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/LAtanks/LAtanks/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LAtanks/LAtanks/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/LAtanks/LAtanks/snake-output/snake.svg" alt="Snake animation" />
+
+###
